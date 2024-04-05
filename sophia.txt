@@ -1,8 +1,4 @@
 teste outro teste.
 acho que você poderia ter feito melhor.
-<<<<<<< HEAD
 fazendo melhor
 
-=======
-sophia não de pull, confie na sua intuição
->>>>>>> f569282cb552e1bfc8b50121b92391c29e6d9177
